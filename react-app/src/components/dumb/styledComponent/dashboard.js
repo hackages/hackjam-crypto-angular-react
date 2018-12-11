@@ -63,5 +63,3 @@ export const RefreshButton = styled.button`
     transition: all 0.2s;
   }
 `
-
-
